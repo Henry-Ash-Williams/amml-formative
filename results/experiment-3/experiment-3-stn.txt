@@ -1,0 +1,12 @@
+Experiment 3:
+
+Investigates the performance of a Conditional VAE with a Spatial Transformer Network trained on a dataset without spatial transformations
+
+Training...
+
+Training complete
+
+Final test loss on base test dataset: 5.28936243057251
+Classification Accuracy on base dataset: 0.8515
+Final test loss on augmented test dataset: 6.5253400802612305
+Classification Accuracy on augmented dataset: 0.7492

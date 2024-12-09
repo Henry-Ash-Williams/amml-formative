@@ -1,0 +1,12 @@
+Experiment 2:
+
+Investigates the performance of a VAE trained on a dataset with spatial transformations 
+
+Training...
+
+Training complete
+
+Final test loss on base test dataset: 0.2574596107006073
+Classification Accuracy on base dataset: 0.7713
+Final test loss on augmented test dataset: 0.28088101744651794
+Classification Accuracy on augmented dataset: 0.7133
